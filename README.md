@@ -2,7 +2,9 @@
   <img src="UAC_logo_whitenew.png" alt="UAC Labs" width="400"/>
 </div>
 
+<div align="center">
 # UAC Labs: The Future of Fintech via Universal Ledger Technology
+</div>
 
 ## Welcome to UAC Labs
 
