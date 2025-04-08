@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-# UAC Labs: The Future of Fintech via Universal Ledger Technology
+The Future of Fintech via Universal Ledger Technology
 </div>
 
 ## Welcome to UAC Labs
