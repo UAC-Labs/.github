@@ -1,9 +1,8 @@
 <div align="center">
   <img src="UAC_logo_whitenew.png" alt="UAC Labs" width="400"/>
-  <p><em>Building Revolutionary Blockchain Architecture for Tomorrow's Financial Systems</em></p>
 </div>
 
-# UAC Labs: Blockchain Architecture for the Future of Finance
+# UAC Labs: The Future of Fintech via Universal Ledger Technology
 
 ## Welcome to UAC Labs
 
