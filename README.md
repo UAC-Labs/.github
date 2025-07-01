@@ -1,7 +1,7 @@
 # UAC Labs: Blockchain Infrastructure for the Future of Finance
 
 <div align="center">
-  <img src="250626-uac-lab-black-text-no-background.png" alt="UAC Labs" width="600"/>
+  <img src="250626-uac-lab-black-text-no-background.png" alt="UAC Labs" width="400"/>
   <p><em>Building Revolutionary Blockchain Architecture for Tomorrow's Financial Systems</em></p>
 </div>
 
